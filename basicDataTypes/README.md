@@ -1,6 +1,6 @@
 Some C++ data types, their format specifiers, and their most common bit widths are as follows:
 
-[Int ("%d"): 32 Bit integer]<br>
+Int ("%d"): 32 Bit integer<br>
 Long ("%ld"): 64 bit integer<br>
 Char ("%c"): Character type<br>
 Float ("%f"): 32 bit real value<br>
