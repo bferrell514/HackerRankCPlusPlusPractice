@@ -1,1 +1,1 @@
-# HackerRankC-Practice
+# HackerRankCPlusPlusPractice
