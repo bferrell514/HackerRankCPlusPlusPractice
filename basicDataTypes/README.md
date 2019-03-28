@@ -22,9 +22,9 @@ To print a data type, use the following syntax:
 printf("`format_specifier`", val)
 For example, to print a character followed by a double:
 
-char ch = 'd';
-double d = 234.432;
-printf("%c %lf", ch, d);
+char ch = 'd';<br>
+double d = 234.432; <br>
+printf("%c %lf", ch, d);<br>
 Note: You can also use cin and cout instead of scanf and printf; however, if you are taking a million numbers as input and printing a million lines, it is faster to use scanf and printf.
 
 Input Format:
@@ -37,11 +37,11 @@ Sample Input:
 3 12345678912345 a 334.23 14049.30493
 
 Sample Output:
-3
-12345678912345
-a
-334.230
-14049.304930000
+3<br>
+12345678912345<br>
+a<br>
+334.230<br>
+14049.304930000<br>
 
 Explanation:
 Print int 3, 
